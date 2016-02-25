@@ -3,8 +3,7 @@ import numpy as np
 import pandas as pd
 import xgboost as xgb
 
-#FOLDER = './data/'
-FOLDER = '/home/ubuntu/kaggle/homesite/'
+FOLDER = './data/'
 FILE1 = 'train.csv'
 FILE2 = 'test.csv'
 FILE3 = 'train_numeric.csv'
