@@ -1,7 +1,7 @@
 # Kaggle-Homesite-Quote-Conversion
 https://www.kaggle.com/c/homesite-quote-conversion
 
-### Final private leader board ranking: 31/1764 
+**Final private leader board ranking: 31/1764**
 
 I've tried Vowpal Wabbit, XGBoost, and Neural Networks with dropouts for this competition.
 
